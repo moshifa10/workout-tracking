@@ -5,7 +5,7 @@ import pprint
 import datetime as dt
 
 dotenv.load_dotenv()
-ENDPOINT = "https://app.100daysofpython.dev"
+
 
 excercise = "/v1/nutrition/natural/exercise"
 
